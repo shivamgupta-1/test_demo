@@ -1,0 +1,1022 @@
+src/main/java/com/cg/order/orderservice/cart/Cart.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/cart/Cart.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/cart/Cart.java:7:	DataClass:	DataClass: The class 'Cart' is suspected to be a Data Class (WOC=12.500%, NOPA=0, NOAM=6, WMC=9)
+src/main/java/com/cg/order/orderservice/cart/Cart.java:7:	DataClass:	DataClass: The class 'Cart' is suspected to be a Data Class (WOC=12.500%, NOPA=0, NOAM=6, WMC=9)
+src/main/java/com/cg/order/orderservice/cart/Cart.java:7:	ShortClassName:	ShortClassName: Avoid short class names like Cart
+src/main/java/com/cg/order/orderservice/cart/Cart.java:7:	ShortClassName:	ShortClassName: Avoid short class names like Cart
+src/main/java/com/cg/order/orderservice/cart/Cart.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/cart/Cart.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/cart/Cart.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/cart/Cart.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/cart/Cart.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/cart/Cart.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/cart/Cart.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Cart constructor if you want a default access modifier
+src/main/java/com/cg/order/orderservice/cart/Cart.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Cart constructor if you want a default access modifier
+src/main/java/com/cg/order/orderservice/cart/Cart.java:13:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/order/orderservice/cart/Cart.java:13:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/order/orderservice/cart/Cart.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/cart/Cart.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/cart/Cart.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Cart.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Cart.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'items' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Cart.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'items' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Cart.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Cart.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Cart.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'totalPrice' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Cart.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'totalPrice' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Cart.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'items' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Cart.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'items' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Items.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/cart/Items.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/cart/Items.java:3:	DataClass:	DataClass: The class 'Items' is suspected to be a Data Class (WOC=11.111%, NOPA=0, NOAM=6, WMC=9)
+src/main/java/com/cg/order/orderservice/cart/Items.java:3:	DataClass:	DataClass: The class 'Items' is suspected to be a Data Class (WOC=11.111%, NOPA=0, NOAM=6, WMC=9)
+src/main/java/com/cg/order/orderservice/cart/Items.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/cart/Items.java:4:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/cart/Items.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/cart/Items.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/cart/Items.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/cart/Items.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/cart/Items.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/cart/Items.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/cart/Items.java:8:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/order/orderservice/cart/Items.java:8:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/order/orderservice/cart/Items.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/cart/Items.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/cart/Items.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Items.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Items.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Items.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Items.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Items.java:12:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Items.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Items.java:23:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Items.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Items.java:31:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Items.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/cart/Items.java:39:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:8:	DataClass:	DataClass: The class 'Orders' is suspected to be a Data Class (WOC=5.000%, NOPA=0, NOAM=18, WMC=21)
+src/main/java/com/cg/order/orderservice/orders/Orders.java:8:	DataClass:	DataClass: The class 'Orders' is suspected to be a Data Class (WOC=5.000%, NOPA=0, NOAM=18, WMC=21)
+src/main/java/com/cg/order/orderservice/orders/Orders.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Orders constructor if you want a default access modifier
+src/main/java/com/cg/order/orderservice/orders/Orders.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Orders constructor if you want a default access modifier
+src/main/java/com/cg/order/orderservice/orders/Orders.java:22:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/order/orderservice/orders/Orders.java:22:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/order/orderservice/orders/Orders.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/orders/Orders.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ammountPaid' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ammountPaid' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customerId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customerId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'modeOfPayment' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'modeOfPayment' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderDate' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderDate' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:25:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderStatus' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderStatus' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderDate' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderDate' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customerId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customerId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ammountPaid' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'ammountPaid' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'modeOfPayment' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'modeOfPayment' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:83:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderStatus' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:83:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orderStatus' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:99:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:99:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:107:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/Orders.java:107:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:3:	DataClass:	DataClass: The class 'Address' is suspected to be a Data Class (WOC=6.250%, NOPA=0, NOAM=14, WMC=17)
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:3:	DataClass:	DataClass: The class 'Address' is suspected to be a Data Class (WOC=6.250%, NOPA=0, NOAM=14, WMC=17)
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:11:	FieldNamingConventions:	FieldNamingConventions: The field name 'State' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:11:	FieldNamingConventions:	FieldNamingConventions: The field name 'State' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:11:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'State' starts with uppercase character.
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:11:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'State' starts with uppercase character.
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Address constructor if you want a default access modifier
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Address constructor if you want a default access modifier
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:13:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:13:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customerId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customerId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'flatNumber' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'flatNumber' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fullName' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fullName' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNumber' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNumber' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pincode' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pincode' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:17:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customerId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'customerId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fullName' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fullName' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNumber' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNumber' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:56:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'flatNumber' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:56:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'flatNumber' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pincode' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pincode' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:80:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/address/Address.java:80:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:3:	DataClass:	DataClass: The class 'Product' is suspected to be a Data Class (WOC=16.667%, NOPA=0, NOAM=4, WMC=7)
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:3:	DataClass:	DataClass: The class 'Product' is suspected to be a Data Class (WOC=16.667%, NOPA=0, NOAM=4, WMC=7)
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:5:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:8:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Product constructor if you want a default access modifier
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:8:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Product constructor if you want a default access modifier
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:8:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:8:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/product/Product.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/order/orderservice/orders/repository/AddressRepository.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/orders/repository/AddressRepository.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/orders/repository/AddressRepository.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/orders/repository/AddressRepository.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/orders/repository/OrderRepository.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/orders/repository/OrderRepository.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/order/orderservice/orders/repository/OrderRepository.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/orders/repository/OrderRepository.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/orders/repository/OrderRepository.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/order/orderservice/orders/repository/OrderRepository.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:11:	DataClass:	DataClass: The class 'Product' is suspected to be a Data Class (WOC=12.500%, NOPA=0, NOAM=20, WMC=28)
+src/main/java/com/cg/shopping/productservice/entity/Product.java:11:	DataClass:	DataClass: The class 'Product' is suspected to be a Data Class (WOC=12.500%, NOPA=0, NOAM=20, WMC=28)
+src/main/java/com/cg/shopping/productservice/entity/Product.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:20:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Product constructor if you want a default access modifier
+src/main/java/com/cg/shopping/productservice/entity/Product.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Product constructor if you want a default access modifier
+src/main/java/com/cg/shopping/productservice/entity/Product.java:25:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/shopping/productservice/entity/Product.java:25:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/shopping/productservice/entity/Product.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:28:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/entity/Product.java:28:	ExcessiveParameterList:	ExcessiveParameterList: Avoid long parameter lists.
+src/main/java/com/cg/shopping/productservice/entity/Product.java:28:	ExcessiveParameterList:	ExcessiveParameterList: Avoid long parameter lists.
+src/main/java/com/cg/shopping/productservice/entity/Product.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'category' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'category' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productType' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productType' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'image' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'image' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rating' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rating' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'review' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'review' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'description' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'description' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'specification' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'specification' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:49:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productType' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productType' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'category' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:73:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'category' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:81:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rating' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:81:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rating' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:89:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'review' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:89:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'review' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:97:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'image' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:97:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'image' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:105:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:105:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:113:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'description' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:113:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'description' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:121:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'specification' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:121:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'specification' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:142:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'obj' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:142:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'obj' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:143:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/cg/shopping/productservice/entity/Product.java:143:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/cg/shopping/productservice/entity/Product.java:144:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/cg/shopping/productservice/entity/Product.java:144:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/cg/shopping/productservice/entity/Product.java:144:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/shopping/productservice/entity/Product.java:144:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/shopping/productservice/entity/Product.java:145:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/cg/shopping/productservice/entity/Product.java:145:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/cg/shopping/productservice/entity/Product.java:146:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/cg/shopping/productservice/entity/Product.java:146:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/cg/shopping/productservice/entity/Product.java:146:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/shopping/productservice/entity/Product.java:146:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/shopping/productservice/entity/Product.java:147:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/cg/shopping/productservice/entity/Product.java:147:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/cg/shopping/productservice/entity/Product.java:148:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/cg/shopping/productservice/entity/Product.java:148:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/cg/shopping/productservice/entity/Product.java:148:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/shopping/productservice/entity/Product.java:148:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/cg/shopping/productservice/entity/Product.java:149:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'other' could be declared final
+src/main/java/com/cg/shopping/productservice/entity/Product.java:149:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'other' could be declared final
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByProductName': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByProductName': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByCategory': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByCategory': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByProductType': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/repository/ProductRepository.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByProductType': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:20:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:23:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:23:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:23:	LongVariable:	LongVariable: Avoid excessively long variable names like productServiceImpl
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:23:	LongVariable:	LongVariable: Avoid excessively long variable names like productServiceImpl
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the ProductResource constructor if you want a default access modifier
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:25:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the ProductResource constructor if you want a default access modifier
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:25:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:25:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:29:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:34:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:40:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:40:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:46:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productType' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:46:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productType' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:52:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:52:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:58:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:58:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'category' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'category' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:64:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:64:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:70:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:70:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:70:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/resource/ProductResource.java:70:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:8:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addProduct': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addProduct': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllProducts': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllProducts': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProductById': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:14:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProductById': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProductByName': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:16:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProductByName': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateProducts': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:18:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateProducts': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:20:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteProductById': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:20:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteProductById': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:22:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:22:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProductByCategory': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:22:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProductByCategory': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:24:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProductByType': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductService.java:24:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProductByType': the method is declared in an interface type
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:16:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:16:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:19:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'product' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productId' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'category' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:50:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'category' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productType' is not assigned and could be declared final
+src/main/java/com/cg/shopping/productservice/service/ProductServiceImpl.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productType' is not assigned and could be declared final
+src/main/java/com/company/cartservice/cartresource/CartResource.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:16:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:19:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'cartRepository'.
+src/main/java/com/company/cartservice/cartresource/CartResource.java:19:	UnusedPrivateField:	UnusedPrivateField: Avoid unused private fields such as 'cartRepository'.
+src/main/java/com/company/cartservice/cartresource/CartResource.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:20:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:20:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/company/cartservice/cartresource/CartResource.java:20:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/company/cartservice/cartresource/CartResource.java:20:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/company/cartservice/cartresource/CartResource.java:20:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/company/cartservice/cartresource/CartResource.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:24:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cart' is not assigned and could be declared final
+src/main/java/com/company/cartservice/cartresource/CartResource.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cart' is not assigned and could be declared final
+src/main/java/com/company/cartservice/cartresource/CartResource.java:30:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/company/cartservice/cartresource/CartResource.java:30:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/company/cartservice/cartresource/CartResource.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/company/cartservice/cartresource/CartResource.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/company/cartservice/cartresource/CartResource.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:41:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/cartresource/CartResource.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cart' is not assigned and could be declared final
+src/main/java/com/company/cartservice/cartresource/CartResource.java:41:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cart' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/company/cartservice/entity/Cart.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/company/cartservice/entity/Cart.java:6:	DataClass:	DataClass: The class 'Cart' is suspected to be a Data Class (WOC=30.000%, NOPA=0, NOAM=6, WMC=14)
+src/main/java/com/company/cartservice/entity/Cart.java:6:	DataClass:	DataClass: The class 'Cart' is suspected to be a Data Class (WOC=30.000%, NOPA=0, NOAM=6, WMC=14)
+src/main/java/com/company/cartservice/entity/Cart.java:6:	ShortClassName:	ShortClassName: Avoid short class names like Cart
+src/main/java/com/company/cartservice/entity/Cart.java:6:	ShortClassName:	ShortClassName: Avoid short class names like Cart
+src/main/java/com/company/cartservice/entity/Cart.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/entity/Cart.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/entity/Cart.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/entity/Cart.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/entity/Cart.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/entity/Cart.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/entity/Cart.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Cart constructor if you want a default access modifier
+src/main/java/com/company/cartservice/entity/Cart.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Cart constructor if you want a default access modifier
+src/main/java/com/company/cartservice/entity/Cart.java:13:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/company/cartservice/entity/Cart.java:13:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/company/cartservice/entity/Cart.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/entity/Cart.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/entity/Cart.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'totalPrice' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'totalPrice' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'totalPrice' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'totalPrice' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'items' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'items' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'obj' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:57:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'obj' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:58:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/company/cartservice/entity/Cart.java:58:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/company/cartservice/entity/Cart.java:59:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/company/cartservice/entity/Cart.java:59:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/company/cartservice/entity/Cart.java:59:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/company/cartservice/entity/Cart.java:59:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/company/cartservice/entity/Cart.java:60:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/company/cartservice/entity/Cart.java:60:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/company/cartservice/entity/Cart.java:61:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/company/cartservice/entity/Cart.java:61:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/company/cartservice/entity/Cart.java:61:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/company/cartservice/entity/Cart.java:61:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/company/cartservice/entity/Cart.java:62:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/company/cartservice/entity/Cart.java:62:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/company/cartservice/entity/Cart.java:63:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/company/cartservice/entity/Cart.java:63:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/company/cartservice/entity/Cart.java:63:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/company/cartservice/entity/Cart.java:63:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/company/cartservice/entity/Cart.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'other' could be declared final
+src/main/java/com/company/cartservice/entity/Cart.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'other' could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/company/cartservice/entity/Items.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/company/cartservice/entity/Items.java:5:	DataClass:	DataClass: The class 'Items' is suspected to be a Data Class (WOC=30.000%, NOPA=0, NOAM=6, WMC=14)
+src/main/java/com/company/cartservice/entity/Items.java:5:	DataClass:	DataClass: The class 'Items' is suspected to be a Data Class (WOC=30.000%, NOPA=0, NOAM=6, WMC=14)
+src/main/java/com/company/cartservice/entity/Items.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/entity/Items.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/entity/Items.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/entity/Items.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/entity/Items.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/entity/Items.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/company/cartservice/entity/Items.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Items constructor if you want a default access modifier
+src/main/java/com/company/cartservice/entity/Items.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Items constructor if you want a default access modifier
+src/main/java/com/company/cartservice/entity/Items.java:10:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/company/cartservice/entity/Items.java:10:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/company/cartservice/entity/Items.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/entity/Items.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/entity/Items.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:13:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:24:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'productName' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'price' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'obj' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'obj' is not assigned and could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:56:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/company/cartservice/entity/Items.java:56:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/company/cartservice/entity/Items.java:57:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/company/cartservice/entity/Items.java:57:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/company/cartservice/entity/Items.java:57:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/company/cartservice/entity/Items.java:57:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/company/cartservice/entity/Items.java:58:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/company/cartservice/entity/Items.java:58:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/company/cartservice/entity/Items.java:59:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/company/cartservice/entity/Items.java:59:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/company/cartservice/entity/Items.java:59:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/company/cartservice/entity/Items.java:59:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/company/cartservice/entity/Items.java:60:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/company/cartservice/entity/Items.java:60:	IfStmtsMustUseBraces:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/company/cartservice/entity/Items.java:61:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/company/cartservice/entity/Items.java:61:	ControlStatementBraces:	ControlStatementBraces: This statement should have braces
+src/main/java/com/company/cartservice/entity/Items.java:61:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/company/cartservice/entity/Items.java:61:	OnlyOneReturn:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/company/cartservice/entity/Items.java:62:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'other' could be declared final
+src/main/java/com/company/cartservice/entity/Items.java:62:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'other' could be declared final
+src/main/java/com/company/cartservice/repository/CartRepository.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/company/cartservice/repository/CartRepository.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/company/cartservice/repository/CartRepository.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/repository/CartRepository.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/service/CartService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/company/cartservice/service/CartService.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/company/cartservice/service/CartService.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/service/CartService.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/service/CartService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/service/CartService.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/service/CartService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/service/CartService.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/service/CartService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/service/CartService.java:14:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/service/CartService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/service/CartService.java:16:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:10:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cart' is not assigned and could be declared final
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:16:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cart' is not assigned and could be declared final
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:24:	ReturnEmptyCollectionRatherThanNull:	ReturnEmptyCollectionRatherThanNull: Return an empty collection rather than null.
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:24:	ReturnEmptyCollectionRatherThanNull:	ReturnEmptyCollectionRatherThanNull: Return an empty collection rather than null.
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cart' is not assigned and could be declared final
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:28:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cart' is not assigned and could be declared final
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/company/cartservice/service/CartServiceImpl.java:34:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'cartId' is not assigned and could be declared final
+src/main/java/com/shopping/ServletInitializer.java:6:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/shopping/ServletInitializer.java:6:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/shopping/ServletInitializer.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/ServletInitializer.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/ServletInitializer.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'application' is not assigned and could be declared final
+src/main/java/com/shopping/ServletInitializer.java:9:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'application' is not assigned and could be declared final
+src/main/java/com/shopping/SpringBootDb1Application.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/SpringBootDb1Application.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/SpringBootDb1Application.java:13:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/shopping/SpringBootDb1Application.java:13:	UseUtilityClass:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/shopping/SpringBootDb1Application.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/SpringBootDb1Application.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/SpringBootDb1Application.java:15:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/shopping/SpringBootDb1Application.java:15:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/shopping/config/SwaggerConfig.java:13:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/shopping/config/SwaggerConfig.java:13:	CommentSize:	CommentSize: Comment is too large: Line too long
+src/main/java/com/shopping/config/SwaggerConfig.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/shopping/config/SwaggerConfig.java:14:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/shopping/config/SwaggerConfig.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/config/SwaggerConfig.java:14:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:6:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:6:	DataClass:	DataClass: The class 'Address' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=14)
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:6:	DataClass:	DataClass: The class 'Address' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=12, WMC=14)
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:9:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Address constructor if you want a default access modifier
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Address constructor if you want a default access modifier
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:15:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:15:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'colonyName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'colonyName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'houseNumber' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'houseNumber' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pincode' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pincode' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'streetName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'streetName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'houseNumber' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'houseNumber' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'streetName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:40:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'streetName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'colonyName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'colonyName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:56:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:56:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'city' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'state' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pincode' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Address.java:72:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'pincode' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:3:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:3:	ShortClassName:	ShortClassName: Avoid short class names like Role
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:3:	ShortClassName:	ShortClassName: Avoid short class names like Role
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:4:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:4:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:4:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'Customer' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:4:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'Customer' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:6:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:6:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'Merchant' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:6:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'Merchant' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:8:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'DeliveryAgent' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/com/shopping/profile/UserProfileService/pojo/Role.java:8:	MethodNamingConventions:	MethodNamingConventions: The instance method name 'DeliveryAgent' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:12:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:12:	DataClass:	DataClass: The class 'UserProfile' is suspected to be a Data Class (WOC=4.167%, NOPA=0, NOAM=22, WMC=25)
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:12:	DataClass:	DataClass: The class 'UserProfile' is suspected to be a Data Class (WOC=4.167%, NOPA=0, NOAM=22, WMC=25)
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:17:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:18:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:19:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:21:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:22:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:23:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:29:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the UserProfile constructor if you want a default access modifier
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:29:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the UserProfile constructor if you want a default access modifier
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:29:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:29:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	ExcessiveParameterList:	ExcessiveParameterList: Avoid long parameter lists.
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	ExcessiveParameterList:	ExcessiveParameterList: Avoid long parameter lists.
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'about' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'about' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fullName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fullName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'image' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'image' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNumber' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNumber' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:32:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dateOfBirth' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dateOfBirth' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'role' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:33:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'role' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:51:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fullName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fullName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'image' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:67:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'image' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:75:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'emailId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:83:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNumber' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:83:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNumber' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'about' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:91:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'about' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:99:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dateOfBirth' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:99:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'dateOfBirth' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:107:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:107:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'gender' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:115:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'role' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:115:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'role' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:123:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:123:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'password' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:131:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/pojo/UserProfile.java:131:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'address' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/repository/ProfileRepository.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/repository/ProfileRepository.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/repository/ProfileRepository.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/repository/ProfileRepository.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/repository/ProfileRepository.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/repository/ProfileRepository.java:10:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/repository/ProfileRepository.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findAllByMobileNumber': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/repository/ProfileRepository.java:10:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findAllByMobileNumber': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/repository/ProfileRepository.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/repository/ProfileRepository.java:12:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/repository/ProfileRepository.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByfullName': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/repository/ProfileRepository.java:12:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByfullName': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:21:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:21:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:24:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:24:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:24:	LongVariable:	LongVariable: Avoid excessively long variable names like profileServiceImpl
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:24:	LongVariable:	LongVariable: Avoid excessively long variable names like profileServiceImpl
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:26:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:26:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:26:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:26:	UncommentedEmptyConstructor:	UncommentedEmptyConstructor: Document empty constructor
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:26:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:26:	UnnecessaryConstructor:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:30:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userProfile' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userProfile' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:37:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:43:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:43:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:43:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:48:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:48:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNumber' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:48:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNumber' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:53:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:53:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:53:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:53:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:53:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userProfile' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:53:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userProfile' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:59:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:59:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:59:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:64:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:64:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fullName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/resource/ProfileResource.java:64:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fullName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:11:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:13:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addNewCustomerProfile': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:13:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addNewCustomerProfile': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:15:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllProfiles': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:15:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllProfiles': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:17:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getByProfileId': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:17:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getByProfileId': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:19:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteProfile': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:19:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteProfile': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:21:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addNewMerchantProfile': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:21:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addNewMerchantProfile': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:23:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:23:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addNewDeliveryProfile': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:23:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addNewDeliveryProfile': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:25:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:25:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByMobileNo': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:25:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByMobileNo': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:27:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getByUserName': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:27:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getByUserName': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:29:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:29:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:29:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateProfile': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileService.java:29:	UnnecessaryModifier:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateProfile': the method is declared in an interface type
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:13:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:13:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:16:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:16:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userProfile' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userProfile' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:30:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:37:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userProfile' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:42:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userProfile' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:42:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:42:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userProfile' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:47:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userProfile' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:47:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:47:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNumber' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:52:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'mobileNumber' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fullName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'fullName' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userProfile' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:65:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'userProfile' is not assigned and could be declared final
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:65:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/shopping/profile/UserProfileService/service/ProfileServiceImpl.java:65:	ShortVariable:	ShortVariable: Avoid variables with short names like id
+src/test/java/com/shopping/SpringBootDb1ApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/shopping/SpringBootDb1ApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/shopping/SpringBootDb1ApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/shopping/SpringBootDb1ApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/shopping/SpringBootDb1ApplicationTests.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/shopping/SpringBootDb1ApplicationTests.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/shopping/SpringBootDb1ApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/shopping/SpringBootDb1ApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/shopping/SpringBootDb1ApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/shopping/SpringBootDb1ApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:1:	TooManyStaticImports:	TooManyStaticImports: Too many static imports may lead to messy code
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:1:	TooManyStaticImports:	TooManyStaticImports: Too many static imports may lead to messy code
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:30:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:30:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:30:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:30:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:33:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:33:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:33:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:33:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:36:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:36:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:36:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:36:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:39:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:39:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:39:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:39:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:39:	LongVariable:	LongVariable: Avoid excessively long variable names like profileServiceImpl
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:39:	LongVariable:	LongVariable: Avoid excessively long variable names like profileServiceImpl
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:43:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "about" appears 5 times in this file; the first occurrence is on line 43
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:43:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "about" appears 5 times in this file; the first occurrence is on line 43
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:43:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:43:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:43:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the user1 field if you want a default access modifier
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:43:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the user1 field if you want a default access modifier
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:43:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:43:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:43:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:43:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:43:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 63873455 should separate every third digit with an underscore
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:43:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 63873455 should separate every third digit with an underscore
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:44:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Male" appears 5 times in this file; the first occurrence is on line 44
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:44:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Male" appears 5 times in this file; the first occurrence is on line 44
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:44:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Merchant" appears 5 times in this file; the first occurrence is on line 44
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:44:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Merchant" appears 5 times in this file; the first occurrence is on line 44
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:44:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "abc@123" appears 5 times in this file; the first occurrence is on line 44
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:44:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "abc@123" appears 5 times in this file; the first occurrence is on line 44
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:45:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:45:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:45:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the user2 field if you want a default access modifier
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:45:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the user2 field if you want a default access modifier
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:45:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:45:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:45:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:45:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:45:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 638734554 should separate every third digit with an underscore
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:45:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 638734554 should separate every third digit with an underscore
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:47:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:47:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:47:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the user3 field if you want a default access modifier
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:47:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the user3 field if you want a default access modifier
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:47:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:47:	CommentRequired:	CommentRequired: Field comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:47:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:47:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:47:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 63873456 should separate every third digit with an underscore
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:47:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 63873456 should separate every third digit with an underscore
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:50:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the getAllProfiles method if you want a default access modifier
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:50:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the getAllProfiles method if you want a default access modifier
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:50:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The getter 'getAllProfiles' should not return void linguistically
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:50:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The getter 'getAllProfiles' should not return void linguistically
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:50:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:50:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'profiles' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:51:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'profiles' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:56:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:56:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'url' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'url' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:58:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mvcResult' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:58:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'mvcResult' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:60:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:60:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:60:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:60:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:60:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:60:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'actual' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:61:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'expeted' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:61:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'expeted' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:62:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:62:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:66:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:66:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:66:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:66:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:66:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:66:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:66:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The getter 'getByProfileId' should not return void linguistically
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:66:	LinguisticNaming:	LinguisticNaming: Linguistics Antipattern - The getter 'getByProfileId' should not return void linguistically
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:66:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:66:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:67:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:67:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:67:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:67:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:68:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'url' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:68:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'url' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:69:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:70:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:70:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:75:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:75:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:75:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:75:	JUnit5TestShouldBePackagePrivate:	JUnit5TestShouldBePackagePrivate: JUnit 5 tests should be package-private.
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:75:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:75:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:75:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:75:	SignatureDeclareThrowsException:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newCustomer' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newCustomer' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:76:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 63873458 should separate every third digit with an underscore
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:76:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 63873458 should separate every third digit with an underscore
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:78:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newCustomer2' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:78:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'newCustomer2' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:78:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 63873458 should separate every third digit with an underscore
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:78:	UseUnderscoresInNumericLiterals:	UseUnderscoresInNumericLiterals: Number 63873458 should separate every third digit with an underscore
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:80:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:80:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:81:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'url' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:81:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'url' could be declared final
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:83:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:83:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:83:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:83:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:83:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:83:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:84:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/shopping/profile/UserProfileService/resource/ProfileResourceTest.java:84:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
